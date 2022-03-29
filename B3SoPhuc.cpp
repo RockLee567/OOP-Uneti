@@ -25,6 +25,7 @@ class SoPhuc {
                 }
             }
 
+
             int getThuc(){
                 return thuc; 
             }
@@ -51,6 +52,7 @@ int main(){
 
     SoPhuc P = P2.tong2SP(P1); 
     P.outPut(); 
+    
 
 
 
