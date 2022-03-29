@@ -40,7 +40,7 @@ class SoPhuc {
                 SoPhuc sp(e,g); 
                 return sp; 
             }
-
+  
 }; 
 
 
