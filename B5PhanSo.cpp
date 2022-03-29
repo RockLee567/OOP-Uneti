@@ -51,7 +51,7 @@ class PhanSo{
                 double tu = a / temp; 
                 double mau = b / temp; 
                 PhanSo p2(tu,mau);
-                return p2; 
+                return p2;   
             }
 
 }; 
